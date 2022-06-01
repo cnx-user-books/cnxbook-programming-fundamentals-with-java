@@ -1,0 +1,50 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11981</md:content-id>
+    <md:title>Programming Fundamentals with Java</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>10746bea-18d1-45cb-be31-d6a27961a797</md:uuid>
+<md:slug>programming-fundamentals-with-java</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m45179"/>
+    <col:module document="m45142"/>
+    <col:module document="m45137"/>
+    <col:module document="m45162"/>
+    <col:module document="m45220"/>
+    <col:module document="m45138"/>
+    <col:module document="m45164"/>
+    <col:module document="m45139"/>
+    <col:module document="m45165"/>
+    <col:module document="m45140"/>
+    <col:module document="m45169"/>
+    <col:module document="m45141"/>
+    <col:module document="m45168"/>
+    <col:module document="m45143"/>
+    <col:module document="m45159"/>
+    <col:module document="m45144"/>
+    <col:module document="m45177"/>
+    <col:module document="m45145"/>
+    <col:module document="m45171"/>
+    <col:module document="m45148"/>
+    <col:module document="m45175"/>
+    <col:module document="m45150"/>
+    <col:module document="m45173"/>
+    <col:module document="m45195"/>
+    <col:module document="m45186"/>
+    <col:module document="m45192"/>
+    <col:module document="m45189"/>
+    <col:module document="m45196"/>
+    <col:module document="m45218"/>
+    <col:module document="m45214"/>
+    <col:module document="m45208"/>
+    <col:module document="m45211"/>
+    <col:module document="m45246"/>
+    <col:module document="m45244"/>
+    <col:module document="m45229"/>
+    <col:module document="m45237"/>
+    <col:module document="m45241"/>
+    <col:module document="m45257"/>
+  </col:content>
+</col:collection>
